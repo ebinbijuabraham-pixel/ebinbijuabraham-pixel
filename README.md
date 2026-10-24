@@ -108,6 +108,6 @@
 
 ## 🤝 Connect & Collaborate
 
-- **LinkedIn:** [linkedin.com/in/ebin-bijuabraham](https://www.linkedin.com/in/ebin-bijuabraham42575532a)
+- **LinkedIn:** [linkedin.com/in/ebin-bijuabraham](linkedin.com/in/ebin-biju-abraham-42575532a)
 - **Email:** [ebinbijuabraham@gmail.com](mailto:ebinbijuabraham@gmail.com)
 - **GitHub Discussions / PRs:** Feel free to open an issue or collaborate on ML, data systems and embedded projects!
